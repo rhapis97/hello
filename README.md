@@ -1,4 +1,4 @@
-# helllo github
+# hello github
 These are example projects.
 1. git bash 연습하기
 2. create
